@@ -1,24 +1,24 @@
 <div align="center">
 <a href="https://refine.dev/">
-![Styled Banner Medium](https://github.com/cano696969/2D-unity-URP/assets/158393938/dd423410-efdc-4026-9ef1-0a8b23807fe9)
-
-
+    <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
 </a>
 
 <br/>
 <br/>
 
 <div align="center">
-    <a href="https://refine.dev">Home Page</a> |
-    <a href="https://discord.gg/refine">Discord</a> |
-    <a href="https://refine.dev/examples/">Examples</a> |
-    <a href="https://refine.dev/blog/">Blog</a> |
-    <a href="https://refine.dev/docs/">Documentation</a>
+    <a href="https://unity.com/games">UnityPage</a> |
+    <a href="https://github.com/Unity-Technologies">Girhub</a> |
+    <a href="https://unity.com/es/education/distance-learning/">Recursos</a> |
+    <a href="https://assetstore.unity.com/">Assets </a> |
+    <a href="https://docs.unity3d.com/ScriptReference/index.html">Documentation</a>
 </div>
 </div>
 
 <br/>
 <br/>
+
+
 
 <div align="center"><strong>Desarrollado Juegos  2D & 3D <a href="https://reactjs.org/">Unity </a> juego de plataforma 2D que ofrece una experiencia única con gráficos cautivadores</strong><br>El código fuente está disponible para que puedas descargarlo y configurarlo.
 
@@ -30,23 +30,52 @@
 
 </div>
 
+
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/com.rmc.rmc-core">
+    <img src="https://img.shields.io/npm/v/com.rmc.rmc-core" alt="npm package">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Plataforma-Unity-green" alt="Plataforma">
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-2019.4%2B-blue" alt="Versión de Unity">
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/Lenguaje-C%23-blue" alt="Lenguaje de Programación">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tuusuario/tuproyecto">
+    <img src="https://img.shields.io/badge/Estado-Estable-brightgreen" alt="Estado del Proyecto">
+  </a>
+  <a href="https://github.com/tuusuario/tuproyecto/docs">
+    <img src="https://img.shields.io/badge/Documentaci%C3%B3n-S%C3%AD-blue" alt="Documentación">
+  </a>
+  <a href="https://github.com/tuusuario/tuproyecto/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen" alt="Contribuciones Bienvenidas">
+  </a>
+</p>
+
+
 <div align="center">
 
-[![Awesome](https://github.com/refinedev/awesome-refine/raw/main/images/badge.svg)](https://github.com/refinedev/awesome-refine)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8101/badge)](https://www.bestpractices.dev/projects/8101)
-[![npm version](https://img.shields.io/npm/v/@refinedev/core.svg)](https://www.npmjs.com/package/@refinedev/core)
-[![](https://img.shields.io/github/commit-activity/m/refinedev/refine)](https://github.com/refinedev/refine/commits/master)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
-
-[![Discord](https://img.shields.io/discord/837692625737613362.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/refine)
-[![Twitter Follow](https://img.shields.io/twitter/follow/refine_dev?style=social)](https://twitter.com/refine_dev)
 
 
 
+![Component 1](https://github.com/cano696969/2D-unity-URP/assets/158393938/6a981df8-42a8-4d9e-af9c-acf30b5905df)
 
-<a href="https://www.producthunt.com/posts/refine-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-refine&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=362220&theme=light&period=daily" alt="refine - 100&#0037;&#0032;open&#0032;source&#0032;React&#0032;framework&#0032;to&#0032;build&#0032;web&#0032;apps&#0032;3x&#0032;faster | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 
+</div>
 
 </div>
 
