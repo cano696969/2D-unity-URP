@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://refine.dev/">
-    <img alt="refine logo" src="https://github.com/cano696969/2D-unity-URP/assets/158393938/7e2a6630-d4f7-458b-9b35-4ddf3ce33ca4">
 
+![how-refine-works](https://github.com/cano696969/2D-unity-URP/assets/158393938/57ad60f6-fd2e-43a8-bf3e-00cc376e5137)
 
-![Figma Unity VbANNER º](https://github.com/cano696969/2D-unity-URP/assets/158393938/7e2a6630-d4f7-458b-9b35-4ddf3ce33ca4)
+</div>
+
 
     
 </a>
@@ -73,18 +73,10 @@
 
 <div align="center">
 
-
-
-
-![Component 1](https://github.com/cano696969/2D-unity-URP/assets/158393938/6a981df8-42a8-4d9e-af9c-acf30b5905df)
-
-![Figma Unity VbANNER º](
-
-
-
-
 </div>
 
 </div>
 
-<br/>![how-refine-works](https://github.com/cano696969/2D-unity-URP/assets/158393938/a6281877-72bc-4454-add8-77970cf27b49)]
+<br/>
+
+![how-refine-works](https://github.com/cano696969/2D-unity-URP/assets/158393938/a6281877-72bc-4454-add8-77970cf27b49)
