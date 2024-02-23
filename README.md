@@ -1,6 +1,8 @@
 <div align="center">
 <a href="https://refine.dev/">
-    <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
+![Styled Banner Medium](https://github.com/cano696969/2D-unity-URP/assets/158393938/dd423410-efdc-4026-9ef1-0a8b23807fe9)
+
+
 </a>
 
 <br/>
